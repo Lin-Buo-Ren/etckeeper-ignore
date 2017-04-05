@@ -1,0 +1,24 @@
+# begin section managed by etckeeper (do not edit this section by hand)
+# end section managed by etckeeper
+
+## Ignore private data which can't post to public(this needs to be version-controlled in other system)
+### Ignore user account and authenticate data
+passwd
+passwd-
+shadow
+shadow-
+group-
+gshadow
+gshadow-
+subuid-
+subgid-
+
+### Ignore SSH Private Keys
+ssh/*key
+
+### 不追蹤 Let's Encrypt keys
+### 參閱 https://certbot.eff.org/docs/using.html#where-are-my-certificates
+letsencrypt/
+
+### Ignore SSL/TLS Private keys
+ssl/private/
