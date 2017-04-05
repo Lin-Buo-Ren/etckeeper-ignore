@@ -22,3 +22,6 @@ letsencrypt/
 
 ### Ignore SSL/TLS Private keys
 ssl/private/
+
+## 不追蹤自己
+.gitignore
