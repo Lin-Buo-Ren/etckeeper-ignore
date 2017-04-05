@@ -1,10 +1,7 @@
 # etckeeper-ignore: version control ignore rules for etckeeper
 <https://github.com/Lin-Buo-Ren/etckeeper-ignore>  
 
-## (Original) Author
-[林博仁](https://github.com/Lin-Buo-Ren) &lt;<Buo.Ren.Lin@gmail.com>&gt;
-
-## (optional)Current Maintainer
+## Author
 [林博仁](https://github.com/Lin-Buo-Ren) &lt;<Buo.Ren.Lin@gmail.com>&gt;
 
 ## License
