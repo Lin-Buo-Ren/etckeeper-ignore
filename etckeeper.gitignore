@@ -23,5 +23,8 @@ letsencrypt/
 ### Ignore SSL/TLS Private keys
 ssl/private/
 
+### Ignore NetworkManager network connection settings, which may contains private information like SSIDs, passwords
+NetworkManager/system-connections/
+
 ## 不追蹤自己
 .gitignore
